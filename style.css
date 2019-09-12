@@ -1,0 +1,23 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+
+body {
+  background-color: rgba(109, 153, 224, 0.52);
+  font-family: "Open Sans", monospace;
+  padding: 5px 25px;
+  font-size: 19px;
+  margin: 0;
+  color: rgba(68, 68, 68, 0.89);
+}
+
+h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 49px;
+}
+.details-bar.cleanslate{
+  display: none !important;
+}
+  
+}
